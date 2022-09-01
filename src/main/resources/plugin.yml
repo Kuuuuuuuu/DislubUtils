@@ -1,0 +1,8 @@
+name: DislubUtils
+version: 2.5.0
+main: kuu.dislub.Loader
+api-version: "1.19"
+commands:
+  f:
+    description: "Respect for the dead players"
+    usage: "/f"
